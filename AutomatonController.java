@@ -11,9 +11,10 @@
  * it is uded to quickly modify the state of all cells of an array.
  * in this case it easily resets the array automaton.
  * 27) there are different patterns   
- * 29) It ensures that the current state remains unchanged while 
+  * 29) It ensures that the current state remains unchanged while 
  * we calculate the next state.
  * 30) The best way to do it is by creating a new array
+ * 33) theres infinite possibilities
  */
 public class AutomatonController
 {
